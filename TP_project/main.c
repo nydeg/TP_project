@@ -6,9 +6,9 @@
 int main() {
 	setlocale(LC_ALL, "RUS");
 	int a, b, c;
-	printf("Введите два целых числа:\n");
+	printf("Г‚ГўГҐГ¤ГЁГІГҐ Г¤ГўГ  Г¶ГҐГ«Г»Гµ Г·ГЁГ±Г«Г :\n");
 	scanf("%d%d", &a, &b);
-	c = a + b;
+	c = a - b;
 	printf("%d\n", c);
 
 	return 0;
