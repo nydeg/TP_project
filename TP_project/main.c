@@ -5,7 +5,10 @@
 
 int main() {
 	setlocale(LC_ALL, "RUS");
-	printf("ѕервый коммит\n");
+	int a, b;
+	printf("¬ведите два целых числа:\n");
+	scanf("%d%d", &a, &b);
+	printf("%d%d\n", a, b);
 
 	return 0;
 }
