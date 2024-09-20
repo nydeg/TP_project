@@ -5,7 +5,7 @@
 
 int main() {
 	setlocale(LC_ALL, "RUS");
-	printf("Привет мир\n");
+	printf("Первый коммит\n");
 
 	return 0;
 }
